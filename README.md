@@ -1,3 +1,3 @@
-# Default starter template
+# Monitoring Web
 
-[MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+Frontend component to the monitoring api project
